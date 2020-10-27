@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi!
+
+My name is brae (she/her) and I'm a game developer for an open-source game, [Momentum Mod](https://momentum-mod.org/).
+I contribute [game code](https://github.com/momentum-mod/game) and keep the [game's documentation](https://github.com/momentum-mod/docs) up to date.
+
+I also make maps for the game:
+
+<a href="url"><img src="https://raw.githubusercontent.com/braem/sj_NaissanceE/main/screenshots/20201021181628_1.jpg" width="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/braem/sj_NaissanceE/main/screenshots/20201021182348_1.jpg" width="400" ></a>
+
+- [sj_NaissanceE](https://github.com/braem/sj_NaissanceE)
+- [rj_tawatyr](https://github.com/braem/rj_tawatyr)
+- [rj_abandon](https://github.com/braem/rj_abandon)
+- And much more :)
+
+### Education
+I got my master's at UNBC alongside an [IEEE publication on algorithmic music composition](https://ieeexplore.ieee.org/abstract/document/8790099).
+I've abandoned my academic career to focus on making games. Priorities ;)
+
+### Contact
+brae@braebie.com, don't be shy!
 
 <!--
 **braem/braem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
