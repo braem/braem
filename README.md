@@ -15,7 +15,6 @@ I also make maps for the game:
 
 ### Education
 I got my master's at UNBC alongside an [IEEE publication on algorithmic music composition](https://ieeexplore.ieee.org/abstract/document/8790099).
-I've abandoned my academic career to focus on making games. Priorities ;)
 
 ### Contact
 brae@braebie.com, don't be shy!
