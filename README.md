@@ -13,8 +13,10 @@ I also make maps for the game:
 - [rj_abandon](https://github.com/braem/rj_abandon)
 - And much more :)
 
-### Education
-I got my master's at UNBC alongside an [IEEE publication on algorithmic music composition](https://ieeexplore.ieee.org/abstract/document/8790099).
+### Education & Academia
+I got my master's degree at UNBC alongside an [IEEE publication on algorithmic music composition](https://ieeexplore.ieee.org/abstract/document/8790099).
+My time there I created [muPsyc](https://github.com/braem/muPsyc), a system that generates music via genetic algorithm. 
+To view some of it's compositions, visit [my research page](http://braebie.com/research.html).
 
 ### Contact
 brae@braebie.com, don't be shy!
