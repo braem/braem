@@ -16,7 +16,9 @@ My time there I created [muPsyc](https://github.com/braem/muPsyc), a system that
 To view some of it's compositions, visit [my research page](http://braebie.com/research.html).
 
 ### Contact
-brae@braebie.com, don't be shy!
+brae@braebie.com & brae@momentum-mod.org
+
+Don't be shy! :)
 
 <!--
 **braem/braem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
