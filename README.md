@@ -12,7 +12,10 @@ My time there I created [muPsyc](https://github.com/braem/muPsyc), a system that
 To view some of it's compositions, visit [my research page](http://braebie.com/research.html).
 
 ## Contact
-brae@braebie.com & brae@momentum-mod.org
+[<img alt="braemie | Twitter" width="30px" src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/twitter.svg" />](https://twitter.com/braemie) 
+[<img alt="braemie | LinkedIn" width="30px" src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/linkedin.svg" />](https://www.linkedin.com/in/brae-stoltz-382101110/)
+
+brae@braebie.com or brae@momentum-mod.org
 
 Don't be shy! 😊
 
