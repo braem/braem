@@ -21,6 +21,8 @@ Don't be shy! 😊
 
 ## Stats!
 
+Do note this is a little lacking as my main development project, [Momentum Mod](https://momentum-mod.org/), is on a private GitLab instance.
+
 ![User stats](https://github-readme-stats.vercel.app/api?username=braem&?count_private=true&show_icons=true&theme=tokyonight&border_color=628FDA&border_radius=20&include_all_commits=true&custom_title=brae%27s%20GitHub%20Stats)
 
 <!--
