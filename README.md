@@ -1,5 +1,9 @@
 ### Hi! I'm brae (she/her) 💝
 
+<a href="https://ko-fi.com/braemie" title="Buy me a ko-fi ;p" style="margin-left:10px">
+  <img src="https://img.shields.io/badge/Donate-$1-purple?logo=ko-fi&style=flat" alt="Buy me a ko-fi" style="display: inline-block" />
+</a>
+
 ## Current obsessions
 - Game developer for the free-to-play game/passion project, [Momentum Mod](https://momentum-mod.org/).
 - Apart of the [Chaos Initiative](https://chaosinitiative.com/), working on the Chaos Engine of which Momentum Mod is built on.
