@@ -5,9 +5,9 @@
 </a>
 
 ## What I do!
-- Game programmer for [Inflexion Games](https://www.inflexion.io/), currently developing [Nightingale](https://www.playnightingale.com/)
+- Gameplay programmer for [Inflexion Games](https://www.inflexion.io/), currently developing [Nightingale](https://store.steampowered.com/app/1928980/Nightingale/)
 - Game/UI/Generalist programmer for the free-to-play game/passion project, [Momentum Mod](https://momentum-mod.org/)
-- Apart of the [Chaos Initiative](https://chaosinitiative.com/), working on the Chaos Engine of which Momentum Mod is built on
+- Engine programmer for the [Strata Source](https://stratasource.org/) engine
 - [Panorama languages support](https://github.com/panorama-languages-support)
 - [Level design](https://github.com/braem-leveldesign)
 - Amateur pixel art & mucking about in godot :)
