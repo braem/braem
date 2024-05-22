@@ -5,9 +5,11 @@
 </a>
 
 ## What I do!
-- Gameplay programmer for [Inflexion Games](https://www.inflexion.io/), currently developing [Nightingale](https://store.steampowered.com/app/1928980/Nightingale/)
+- Released [Nightingale](https://store.steampowered.com/app/1928980/Nightingale/) as a gameplay programmer for [Inflexion Games](https://www.inflexion.io/), and am continuing to support it in Early Access
 - Game/UI/Generalist programmer for the free-to-play game/passion project, [Momentum Mod](https://momentum-mod.org/)
 - Engine programmer for the [Strata Source](https://stratasource.org/) engine
+    - Credited in popular mod [Portal: Revolution](https://store.steampowered.com/app/601360/Portal_Revolution/)
+- Programmer for [catboyZOOM](https://store.steampowered.com/app/2933910/catboyZOOM/)
 - [Panorama languages support](https://github.com/panorama-languages-support)
 - [Level design](https://github.com/braem-leveldesign)
 - Amateur pixel art & mucking about in godot :)
