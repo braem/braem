@@ -1,5 +1,3 @@
-## Hi! I'm brae (she/her) 💝
-
 I love making games as much as I love playing them. I have many projects on the go!
 
 - Lead Gameplay Programmer at [Inflexion Games](https://www.inflexion.io/), working primarily on the building system in [Nightingale](https://store.steampowered.com/app/1928980/Nightingale/)
@@ -9,8 +7,3 @@ I love making games as much as I love playing them. I have many projects on the 
 - Sole programmer for [catboyZOOM](https://store.steampowered.com/app/2933910/catboyZOOM/)
 - [Niche level design](https://github.com/braem-leveldesign)
 - The occassional gamejam - https://braemie.itch.io/
-
-## Contact
-https://www.linkedin.com/in/brae-stoltz-382101110/ | braemie@protonmail.com | @brae on Discord | @braemie on Twitter
-
-Don't be shy! 😊
