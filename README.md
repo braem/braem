@@ -1,6 +1,7 @@
 I love making games as much as I love playing them. I have many projects on the go!
 
 - Lead Gameplay Programmer at [Inflexion Games](https://www.inflexion.io/)
+- [Music!](https://braemie.bandcamp.com/)
 - Sole programmer for [catboyZOOM](https://store.steampowered.com/app/2933910/catboyZOOM/)
 - The occassional gamejam - https://braemie.itch.io/
 
